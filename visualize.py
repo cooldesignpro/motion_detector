@@ -1,5 +1,4 @@
 import pandas
-import matplotlib.pyplot as plt
 import numpy
 
 a = 5
